@@ -4,3 +4,5 @@ This is repository with solutions of problems in SoftUni Course: Programming Fun
 2. Basic Syntax, Conditional Statements and Loops - Exercise
 3. Data Types and Variables - Lab
 4. Data Types and Variables - Exercise
+5. Arrays - Lab
+6. Arrays - Exercise
